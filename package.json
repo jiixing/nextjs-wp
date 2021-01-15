@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "next -p 3030",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 61187"
   },
   "dependencies": {
     "classnames": "2.2.6",
